@@ -2,5 +2,5 @@
 	"ip":"[kaneki_s3npai.aternos.me",
 	"port": "58015",
 	"name": "AchanServer",
-	"auto-night-skip":"false"
+	"auto-night-skip":"true"
 }
